@@ -1,8 +1,11 @@
  <style> 
-         h1 { 
-         font-family: Arial, Helvetica, sans-serif;
-         font-size: 80;
-font-color: white;}     
+       h1 {color:white;
+@font-face {
+    font-family: ;
+    src: url(SYNNovaVFGX.woff2);
+}:  ;}
+
+#History{ color:blue}    
          
          
  body { background-color: black;
@@ -10,5 +13,5 @@ font-color: white;}
  img {height: 100%;
 width: 100%;}
          
-         #History { font-color: blue; }
+        
  </style>
